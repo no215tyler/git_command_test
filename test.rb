@@ -8,5 +8,5 @@ class User
   end
 end
 
-me = User.new("忍者")
+me = User.new("tairanobuhiko")
 me.introduce()
